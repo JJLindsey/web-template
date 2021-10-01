@@ -8,13 +8,17 @@ body::before {
     background-color: rgb(250, 230, 119);
 }
 
+.bg-card {
+    background-color: rgb(185, 211, 249);
+}
+
 .btn-jsblue {
     background-color: rgb(4, 57, 218);
     color:whitesmoke;
 }
 
 .text-intro {
-    color: rgb(4, 57, 218);
+    color: rgb(218, 97, 4);
 }
 
 .bg-instructor {
