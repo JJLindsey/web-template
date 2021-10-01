@@ -4,6 +4,23 @@ body::before {
     height: 60px;
 }
 
+.bg-enroll, .btn-enroll {
+    background-color: rgb(250, 230, 119);
+}
+
+.btn-jsblue {
+    background-color: rgb(4, 57, 218);
+    color:whitesmoke;
+}
+
+.text-intro {
+    color: rgb(4, 57, 218);
+}
+
+.bg-instructor {
+    background-color: rgb(4, 57, 218);
+}
+
 #map {
     width: 100%;
     height: 100%;
