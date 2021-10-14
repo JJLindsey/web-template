@@ -1,13 +1,14 @@
-# Simple HTML Web Page Template
+# Responsive Web Page Template using Bootstrap 5
 
 ## **Description**
-Web Page Template using HTML & CSS
+Web Page Template using HTML & CSS & Bootstrap
 
 ## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
 * [Licenses](#licenses)
-* [Badges](#Badges)
+* [Acknowledgments](#acknowledgments)
+* [Badges](#badges)
 * [Questions](#questions)
 
 
@@ -16,7 +17,7 @@ none
 
 
 ### **Usage**
-
+view site: 
 
 
 ### **Technologies Used:**
@@ -31,6 +32,9 @@ none
 ### *Licenses*
 MIT license
 
+### Acknowledgments
+This is from a Traversy Media tutorial - you can find the video here:
+[video](https://www.youtube.com/watch?v=4sosXZsdy-s)
 
 ### *Badges*
 <img src="https://img.shields.io/badge/MIT-license-brightgreen">
