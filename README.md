@@ -23,7 +23,7 @@ view site:
 ### **Technologies Used:**
 * HTML
 * CSS
-* Javascript
+* Bootstrap 5
 
 <img src="./images/webDevTempl.png" height=300/>
 
