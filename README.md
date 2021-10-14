@@ -18,7 +18,7 @@ none
 
 ### **Usage**
 view site: 
-
+[responsive page](https://jjlindsey.github.io/web-template/)
 
 ### **Technologies Used:**
 * HTML
@@ -35,6 +35,7 @@ MIT license
 ### Acknowledgments
 This is from a Traversy Media tutorial - you can find the video here:
 [video](https://www.youtube.com/watch?v=4sosXZsdy-s)
+This was fun to do!
 
 ### *Badges*
 <img src="https://img.shields.io/badge/MIT-license-brightgreen">
